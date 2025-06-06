@@ -1,0 +1,4 @@
+Future Improvements:
+- Add dark mode UI
+- Export report to PDF
+- Mobile responsiveness
